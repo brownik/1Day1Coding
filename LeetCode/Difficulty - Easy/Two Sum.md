@@ -4,11 +4,6 @@ Difficulty: Easy
 Last Updated: 2023년 6월 21일 오후 5:21
 Resolved: true
 
-```
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
-```
 
 링크 - [Two Sum](https://leetcode.com/problems/two-sum/description/)
 
