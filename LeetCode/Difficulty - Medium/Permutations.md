@@ -4,7 +4,7 @@ Last Updated: 2023년 8월 2일 오전 9:40
 Difficulty: Medium
 Resolved: true
 
-링크 - [Permutation](https://leetcode.com/problems/permutations/description/)
+링크 - [Permutations](https://leetcode.com/problems/permutations/description/)
 
 **문제 설명**
 
