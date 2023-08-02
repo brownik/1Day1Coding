@@ -1,4 +1,4 @@
-# Permutation
+# Permutations
 
 Last Updated: 2023년 8월 2일 오전 9:40
 Difficulty: Medium
